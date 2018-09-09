@@ -1,6 +1,8 @@
 # FastDraw
 A console drawing application using line commands.
 
+Click [here](https://bitbucket.org/sshark/fast-draw/src/master/) to access the source.
+
 ## How to Build
 This project is built using [SBT](http://www.scala-sbt.org/download.html) and runs on [Scala 2.12](http://www.scala-lang.org/download/) on Linux. Please make sure these software are installed and accessible from shell before proceeding.
 
